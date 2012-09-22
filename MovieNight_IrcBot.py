@@ -4,7 +4,7 @@
 #
 # Joel Rosdahl <joel@rosdahl.net>
 #
-# MovieBot IRC bot by Julian
+# MovieBot IRC bot by Julian Jocque
 # Project page: https://github.com/okiyama/Baconbits-Moviebot
 
 """
