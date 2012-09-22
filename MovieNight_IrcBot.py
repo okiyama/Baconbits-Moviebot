@@ -49,7 +49,7 @@ class TestBot(SingleServerIRCBot):
 
     def on_welcome(self, c, e):
         c.join(self.channel)
-        c.part("#lounge", "fuck da polees")
+        c.part("#lounge", "MovieBot leaving now!")
     def on_privmsg(self, c, e):
         self.do_command(e, e.arguments()[0])
 
